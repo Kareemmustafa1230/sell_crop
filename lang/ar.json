@@ -1,0 +1,119 @@
+{
+  "language": "English",
+  "app_name": "بيع محصولك",
+  "login": "تسجيل الدخول",
+  "export_buy_sell_crop": "تصدير و بيع و شراء محصولك.",
+  "start": "إبدأ",
+  "your_email":   "بريدك الالكتروني",
+  "password": "كلمة المرور",
+  "valid_email": "من فضلك إدخال البريد الإلكتروني الصحيح",
+  "valid_passwrod":"من فضلك إدخال كلمة مرور صحيحة، لا تقل عن 6 أحرف",
+  "logged_successfully": "تم تسجيل الدخول بنجاح",
+  "logged_error":"هناك خطأ في تسجيل الدخول اعد المحاولة",
+  "create_account": "إنشاء حساب",
+  "sign_up_welcome": "مرحبا، الرجاء إضافة المعلومات الخاصة بك",
+  "sign_up": "آنشاء حساب",
+  "don't_have_an_account?": "ليس لديك حساب؟ ",
+  "full_name": "الاسم الكامل",
+  "valid_name":"من فضلك إدخال اسمك كاملا",
+  "valid_pick_image":  "الرجاء تحديد الصورة الرمزية الخاصة بك",
+  "image_uploaded":  "تم تحميل الصورة بنجاح",
+  "image_removed":  "تم مسح الصورة",
+  "language_tilte":  "اللغة",
+  "change_to_the_language": "هل تريد تأكيد تغيير اللغة إلى اللغة الإنجليزية؟",
+  "sure": "تآكيد",
+  "cancel": "إلغاء",
+  "build_version": "نسخة التطبيق",
+  "build_developer": "مطور التطبيق",
+  "log_out": "تسجيل خروج",
+  "log_out_from_app": "هل تريد تسجيل الخروج؟",
+  "yes": "نعم",
+  "no": "لا",
+  "lang_code": "العربية",
+  "approval_company" : "الموافقة على سياسة الشركة",
+  "forget password" : "نسيت كلمة المرور؟",
+  "number_phone": "رقم الهاتف",
+  "phone": "الهاتف",
+  "enter_Password": "ادخل كلمة السر",
+  "enter_name": "ادخل الاسم",
+  "name": "الاسم كامل",
+  "job":"الوظيفة",
+  "you_have_account": "هل لديك حساب؟",
+  "send": "ارسال",
+  "save": "حفظ",
+  "change_Password": "تغير كلمة السر",
+  "write_Remember": "يرجى كتابة شيء سوف تتذكره",
+  "old_password": "كلمة السر القديمة",
+  "new_password": "كلمة السر الجديدة",
+  "confirm_password": "تأكيد كلمة السر الجديدة",
+  "enter_Old_password": "ادخل كلمة السر القديمة",
+  "enter_New_password": "ادخل كلمة السر الجديدة",
+  "enter_Confirm_password": "ادخل تأكيد كلمة السر الجديدة",
+  "account_Settings": "إعدادات الحساب",
+  "setting": "إعدادات",
+  "companyPolicy": "سياسة الشركة",
+  "technicalSupport": "الدعم الفني",
+  "complaints": "الشكاوى",
+  "signOut": "تسجيل الخروج",
+  "support": "ويسعدنا تلقي استفساراتكم والرد عليها في أسرع وقت ممكن.",
+  "enterNumberPhone": "أدخل رقم الهاتف",
+  "subject": "الموضوع",
+  "enterSubject": "أدخل الموضوع",
+  "message": "الرسالة",
+  "selling": "بيع",
+  "purchasing": "شراء",
+  "shopping": "التسوق",
+  "homePage": "الصفحة الرئيسية",
+  "purchaseRequest": "طلب شراء",
+  "sellRequest": "طلب بيع",
+  "companyOwnerData": "بيانات مالك الشركة",
+  "quantity": "الكمية",
+  "price": "السعر",
+  "address": "العنوان",
+  "type": "النوع",
+  "data": "تاريخ النشر",
+  "listingId": "رقم المنشور",
+  "cropPurchaseing": "شراء المحاصيل",
+  "cropSelling": "بيع المحاصيل",
+  "search": "بحث...",
+  "addACrop": "أضف محصولًا",
+  "target": "هدف",
+  "cropPrice": "سعر المحاصيل",
+  "aDDPicture": "أضف صورة للمحصول",
+  "add": "ضيف",
+  "farm": "فلاح",
+  "merchant": "تاجر",
+  "source": "مصدر",
+  "exportation": "تصدير",
+  "local": "محلي",
+  "deleteTheAccount": "حذف الاكونت",
+  "enterMobileNumber": "ادخل رقم هاتفك",
+  "forgetPasswords": "نسيت كلمة السر",
+  "messageEnterCode": " . الرجاء إدخال الرمز المكون من 6 أرقام الذي تم إرساله إلى هاتفك عن طريق الواتس للتحقق",
+  "verificationCode": "رمز التحقق",
+  "rememberPassword": "يرجى كتابة شيء سوف تتذكره"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
